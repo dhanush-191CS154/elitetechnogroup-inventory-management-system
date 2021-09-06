@@ -1,0 +1,207 @@
+{
+  
+    "191cs154":{
+      "name": "dhanush",
+      "reg_no": "191cs154",
+      "phone_no": "9658412212",
+      "dept": "cse"
+    },
+	
+	"191cs152" : {
+      "name": "dhaniesh",
+      "reg_no": "191cs152",
+      "phone_no": "9632587412",
+      "dept": "cse"
+    },
+	
+"191cs158" :	{
+      "name": "dinesh",
+      "reg_no": "191cs158",
+      "phone_no": "9360054366",
+      "dept": "cse"
+    },
+	
+	"191cs155" : {
+      "name": "dhanushpraveen",
+      "reg_no": "191cs155",
+      "phone_no": "9445240516",
+      "dept": "cse"
+    },
+	
+	"191bt115" : {
+      "name": "sanjay",
+      "reg_no": "191bt115",
+      "phone_no": "9698745132",
+      "dept": "biotech"
+    },
+	
+	"191it125" : {
+      "name": "rakesh",
+      "reg_no": "191it145",
+      "phone_no": "8875649123",
+      "dept": "it"
+    },
+	
+	"191cs210" : {
+      "name": "raghul",
+      "reg_no": "191cs210",
+      "phone_no": "9546987412",
+      "dept": "cse"
+    },
+	
+  "191bt130" : 	{
+      "name": "priya",
+      "reg_no": "191bt130",
+      "phone_no": "8765492314",
+      "dept": "biotech"
+    },
+	
+	"191ag125" : {
+      "name": "dharshana",
+      "reg_no": "191ag125",
+      "phone_no": "9456987123",
+      "dept": "agri"
+    },
+	
+	"192fd150" : {
+      "name": "shanju",
+      "reg_no": "192fd150",
+      "phone_no": "9654987321",
+      "dept": "food"
+    },
+	
+	"191cs210" : {
+      "name": "naveen",
+      "reg_no": "191cs210",
+      "phone_no": "8796542314",
+      "dept": "cse"
+    },
+	
+  "191au110" : 	{
+      "name": "gokul",
+      "reg_no": "191au110",
+      "phone_no": "7856941234",
+      "dept": "auto"
+    },
+	
+	"191ec214"  : {
+      "name": "ibrahim",
+      "reg_no": "191ec214",
+      "phone_no": "9365214789",
+      "dept": "electrical&communication"
+    },
+	
+	"191ag123" : {
+      "name": "darshan",
+      "reg_no": "191ag123",
+      "phone_no": "9865321475",
+      "dept": "agri"
+    },
+	
+	"191it146" : {
+      "name": "ashish",
+      "reg_no": "191it146",
+      "phone_no": "9638654711",
+      "dept": "it"
+    },
+	
+	"191ft111" : {
+      "name": "raghav",
+      "reg_no": "191ft111",
+      "phone_no": "9665987412",
+      "dept": "fashion"
+    },
+	
+	"191cs267" : {
+      "name": "shivani",
+      "reg_no": "191cs267",
+      "phone_no": "9639876543",
+      "dept": "cse"
+    },
+	
+	"191ee150" : {
+      "name": "ajay",
+      "reg_no": "191ee150",
+      "phone_no": "9789654122",
+      "dept": "eee"
+    },
+	
+  "191ct250" : 	{
+      "name": "anish",
+      "reg_no": "191ct250",
+      "phone_no": "9631312412",
+      "dept": "ct"
+    },
+	
+	"191ft112" : {
+      "name": "arun",
+      "reg_no": "191ft112",
+      "phone_no": "8974563212",
+      "dept": "fashion"
+    },
+	
+	"191au134" : {
+      "name": "sivanesh",
+      "reg_no": "191au134",
+      "phone_no": "9988774455",
+      "dept": "auto"
+    },
+	
+	"191mc210" : {
+      "name": "pooja",
+      "reg_no": "191mc210",
+      "phone_no": "9632865412",
+      "dept": "mech"
+    },
+	
+	"192fd132"  : {
+      "name": "hrishi",
+      "reg_no": "192fd132",
+      "phone_no": "8974562131",
+      "dept": "food"
+    },
+	
+	"191tx130" : {
+      "name": "sanjana",
+      "reg_no": "191tx130",
+      "phone_no": "9754683217",
+      "dept": "textile"
+    },
+	
+	"191cs192" : {
+      "name": "ashish",
+      "reg_no": "191cs192",
+      "phone_no": "7854632191",
+      "dept": "cse"
+    },
+	
+	"191bt162" : {
+      "name": "ratheesh",
+      "reg_no": "191bt162",
+      "phone_no": "8965412375",
+      "dept": "biotech"
+    },
+	
+	"191bt234" : {
+      "name": "praveen",
+      "reg_no": "191bt234",
+      "phone_no": "9685741235",
+      "dept": "biotech"
+    },
+	
+	"191ee200" : {
+      "name": "mitun",
+      "reg_no": "191ee200",
+      "phone_no": "8765412398",
+      "dept": "eee"
+    },
+	
+	"191tx250" : {
+      "name": "hari",
+      "reg_no": "191tx250",
+      "phone_no": "8659847123",
+      "dept": "textile"
+    }
+	
+	 
+}
