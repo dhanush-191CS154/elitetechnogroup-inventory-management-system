@@ -1,6 +1,8 @@
 # elitetechnogroup-inventory-management-system
 Json based inventory management system - student database
 
+Students database
+
 enter 1 to view stuent details
 enter 2 to search a student
 enter 3 to add a new student record
